@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.DS_Store
+
+# Analysis inputs and outputs are not version-controlled
+demo_data/
+demo_results/
+results*/
+*.npy
+*.tif
+*.tiff
+!docs/**/*.png
